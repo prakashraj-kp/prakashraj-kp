@@ -33,10 +33,16 @@ No activity tracked
 
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakashraj-kp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashraj-kp&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<img align="left" alt="prakashraj-kp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prakashraj-kp&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashraj-kp)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://bushansirgur.in
+[twitter]: https://twitter.com/bushan_sirgur
+[youtube]: https://youtube.com/b2tech
+[instagram]: https://instagram.com/bushan_sirgur
+[linkedin]: https://linkedin.com/in/bushan-sc
+
 
 
 # 💻 Tech Stack:
@@ -58,3 +64,6 @@ No activity tracked
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
